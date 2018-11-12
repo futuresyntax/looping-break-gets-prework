@@ -9,4 +9,3 @@ end
   puts "You passed the quiz!"
 
 end
-
